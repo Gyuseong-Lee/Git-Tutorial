@@ -13,3 +13,9 @@ int mul(int a, int b)
 {
 	return a*b ;
 }
+
+
+int dev(int a, int b)
+{
+	return a/b ;
+}
